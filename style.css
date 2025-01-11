@@ -32,6 +32,11 @@ img {
   height: 200px;
 }
 
+.info {
+  width: 20px;
+  height: auto;
+}
+
 article {
   flex: 3;
   padding: 1rem;
